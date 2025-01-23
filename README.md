@@ -1,2 +1,2 @@
 # python_exception
-Curso para manejar excepciones con Python
+Taller para manejar excepciones con Python
